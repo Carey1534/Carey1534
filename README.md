@@ -24,7 +24,7 @@
 
 ---
 
-## `> whoami`
+## `> Who Am I`
 
 I build production AI systems. Real pipelines running in real businesses.
 
