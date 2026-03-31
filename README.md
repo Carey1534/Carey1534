@@ -30,7 +30,7 @@ I build production AI systems. Real pipelines running in real businesses.
 
 As founder of **Simplifi AI LLC**, I design and ship multi-agent automation systems, RAG pipelines, and AI-assisted SaaS products for clients who need things to actually work. I pair deep technical execution with a product mindset: understand the problem first, then build the right system for it.
 
-Currently working with **Claude Code** daily as a core part of my development workflow — building, testing, and shipping faster than traditional dev cycles.
+Currently working with **Claude Code** & **OpenAI** daily as a core part of my development workflow — building, testing, and shipping faster than traditional dev cycles.
 
 ---
 
